@@ -33,7 +33,6 @@ To this end, Illumina 450K Methylation array was performed in melanoma tumors fr
 
 
 The Infinium Methylation Assay 450k uses two different bead types to detect changes in DNA methylation levels. In the figure we can see M - methylated and U - unmethylated bead types. In our study unmethylated and methylated bead signals are reported as green and red colors respectively.
-
 ![methassay](methylationassay.png "Infinium Methylation Assay Overview (adapted from https://emea.illumina.com/science/technology/beadarray-technology/infinium-methylation-assay.html?langsel=/gb/)")
 
 
